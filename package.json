@@ -1,0 +1,14 @@
+{
+  "name": "mern-task-manager",
+  "version": "1.0.0",
+  "description": "Full-stack MERN Task Management Application with Drag and Drop",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client dev",
+    "build": "npm --prefix client run build"
+  },
+  "keywords": ["mern", "react", "express", "mongodb", "nodejs", "kanban", "dnd"],
+  "author": "",
+  "license": "ISC"
+}
